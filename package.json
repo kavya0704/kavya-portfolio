@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Dual-purpose AI/ML developer portfolio and freelance web engineering platform for Kavya Shaw. Features responsive mobile-desktop architecture, SIH26187 RAKSHA AI 2.0 prototype, CareerAI Copilot, and interactive case studies.",
   "author": "Kavya Shaw <kavya.shaw.tech@gmail.com>",
-  "homepage": "https://kavya-portfolio.vercel.app",
+  "homepage": "https://kavya-portfolio-plum.vercel.app/",
   "repository": {
     "type": "git",
     "url": "https://github.com/kavya0704/kavya-portfolio.git"

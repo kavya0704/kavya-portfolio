@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://kavya-shaw.vercel.app/sitemap.xml
+Sitemap: https://kavya-portfolio-plum.vercel.app/sitemap.xml

@@ -11,11 +11,11 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![CI Status](https://img.shields.io/badge/CI-Passing-brightgreen?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/kavya0704/kavya-portfolio/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Deployed on Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Deployed on Vercel](https://img.shields.io/badge/Vercel-Deployed-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kavya-portfolio-plum.vercel.app/)
 
 <br />
 
-[Explore Live Demo](https://kavya-portfolio.vercel.app) • [View Flagship Project](#-flagship-project-raksha-ai-20) • [Local Setup](#-local-installation--setup) • [Connect with Kavya](https://www.linkedin.com/in/kavya-shaw-025b5a251/)
+[Explore Live Demo](https://kavya-portfolio-plum.vercel.app/) • [View Flagship Project](#-flagship-project-raksha-ai-20) • [Local Setup](#-local-installation--setup) • [Connect with Kavya](https://www.linkedin.com/in/kavya-shaw-025b5a251/)
 
 </div>
 
@@ -39,7 +39,7 @@ Designed and built to high standards, the platform balances two strategic goals:
 | **RAKSHA AI 2.0 (Flagship)** | [raksha20-ten.vercel.app](https://raksha20-ten.vercel.app/) | [kavya0704/raksha2.0](https://github.com/kavya0704/raksha2.0) | YOLOv8 • OpenCV • FastAPI • MQTT • WebSockets • React |
 | **CareerAI Copilot** | [career-ai-web.vercel.app](https://career-ai-web.vercel.app/) | [kavya0704/job-agent](https://github.com/kavya0704/job-agent) | Next.js • Python Scrapers • Jaccard Index • SMTP |
 | **DrowsiGuard Pro** | [deploy-five-theta-92.vercel.app](https://deploy-five-theta-92.vercel.app/) | [kavya0704/DrowsiGuard-PRO](https://github.com/kavya0704/DrowsiGuard-PRO) | MediaPipe 468-Mesh • OpenCV • Python • Client Inference |
-| **Developer Portfolio** | [kavya-portfolio.vercel.app](https://kavya-portfolio.vercel.app) | [kavya0704/kavya-portfolio](https://github.com/kavya0704/kavya-portfolio) | Next.js 14 • Tailwind CSS • Lucide Icons |
+| **Developer Portfolio** | [kavya-portfolio-plum.vercel.app](https://kavya-portfolio-plum.vercel.app/) | [kavya0704/kavya-portfolio](https://github.com/kavya0704/kavya-portfolio) | Next.js 14 • Tailwind CSS • Lucide Icons |
 
 ---
 

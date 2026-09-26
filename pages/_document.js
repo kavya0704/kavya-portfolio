@@ -6,9 +6,9 @@ export default function Document() {
     "@graph": [
       {
         "@type": "Person",
-        "@id": "https://kavya-shaw.vercel.app/#person",
+        "@id": "https://kavya-portfolio-plum.vercel.app/#person",
         "name": "Kavya Shaw",
-        "url": "https://kavya-shaw.vercel.app",
+        "url": "https://kavya-portfolio-plum.vercel.app",
         "jobTitle": "AI/ML Developer & Web Engineer",
         "worksFor": {
           "@type": "CollegeOrUniversity",
@@ -40,12 +40,12 @@ export default function Document() {
       },
       {
         "@type": "WebSite",
-        "@id": "https://kavya-shaw.vercel.app/#website",
-        "url": "https://kavya-shaw.vercel.app",
+        "@id": "https://kavya-portfolio-plum.vercel.app/#website",
+        "url": "https://kavya-portfolio-plum.vercel.app",
         "name": "Kavya Shaw — AI/ML & Web Developer Portfolio",
         "description": "Portfolio of Kavya Shaw, a Computer Science student specializing in AI/ML, building Python applications, computer-vision systems, APIs and modern web experiences.",
         "publisher": {
-          "@id": "https://kavya-shaw.vercel.app/#person"
+          "@id": "https://kavya-portfolio-plum.vercel.app/#person"
         }
       }
     ]
