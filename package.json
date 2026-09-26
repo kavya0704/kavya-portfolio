@@ -1,6 +1,24 @@
 {
-  "name": "portfolio",
-  "version": "0.1.0",
+  "name": "kavya-portfolio",
+  "version": "1.0.0",
+  "description": "Dual-purpose AI/ML developer portfolio and freelance web engineering platform for Kavya Shaw. Features responsive mobile-desktop architecture, SIH26187 RAKSHA AI 2.0 prototype, CareerAI Copilot, and interactive case studies.",
+  "author": "Kavya Shaw <kavya.shaw.tech@gmail.com>",
+  "homepage": "https://kavya-portfolio.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kavya0704/kavya-portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "developer-portfolio",
+    "nextjs",
+    "react",
+    "tailwindcss",
+    "ai-ml",
+    "freelance-developer",
+    "computer-vision",
+    "raksha-ai"
+  ],
   "private": true,
   "scripts": {
     "dev": "next dev",
